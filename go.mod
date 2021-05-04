@@ -1,3 +1,3 @@
 module github.com/Specki-Sh/search
 
-go 1.15
+go 1.16
